@@ -7,7 +7,7 @@ services:
         NODE_ENV: production
         # DATABASE_URL: ${DATABASE_URL}  # Uncomment and set if using database
     ports:
-      - "3000:3000"
+      - "5173:3000"
     environment:
       - NODE_ENV=production
     restart: unless-stopped
