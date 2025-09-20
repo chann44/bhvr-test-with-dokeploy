@@ -86,3 +86,5 @@ README.md
 # Linting
 .eslintcache
 .eslintrc*
+# Static files
+server/static
